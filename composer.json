@@ -1,0 +1,16 @@
+{
+    "name": "ogprogrammer/lolwut",
+    "description": "An example library used in my composer talk",
+    "type": "library",
+    "license": "free beer",
+    "authors": [
+        {
+            "name": "Joshua Copeland",
+            "email": "joshuarcopeland@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "OGP\\": "src/" }
+    },
+    "require": {}
+}
